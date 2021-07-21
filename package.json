@@ -1,0 +1,13 @@
+{
+  "name": "shopping-list-api",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node medium.js",
+    "prestart": "npm install"
+  },
+  "dependencies": {
+    "node-xlsx": "0.17.1"
+  },
+  "devDependencies": {}
+}
